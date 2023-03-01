@@ -1,4 +1,6 @@
 # Readme.md
+
+## Hello there 👋 **GET** **TO** **KNOW** **ME** 
 🔭 I’m a Final Year Student of Child and family life studies
 
 👩‍👦 I'm passionate abut maternal and child health and this ignited my passion in tech and data
