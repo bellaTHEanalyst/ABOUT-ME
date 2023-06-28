@@ -12,9 +12,7 @@
 
 🙇 **In** **GOD** **I** **TRUST**. All others must bring data
 
-🌱 I’m currently learning SQL for database 
-
-😃 I'm also currently learning Robotics Process Automation Uipath
+🌱  I am Excel, powerBI, Sql, and Azure proficient.
 
 📫 How to reach me:  https://www.linkedin.com/in/martins-isabella-/
 
