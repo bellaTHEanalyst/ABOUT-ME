@@ -3,6 +3,7 @@
 ## Hello there 👋 **GET** **TO** **KNOW** **ME** 
 🔭 I’m a Final Year Student of Child and family life studies
 
+![](https://github.com/bellaTHEanalyst/ABOUT-ME/blob/main/About%20me%20.jpg)
 
 
 👩‍👦 I'm passionate about maternal and child health and this ignited my passion for tech and data
