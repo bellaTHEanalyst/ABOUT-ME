@@ -1,7 +1,7 @@
 # Readme. md
 
 ## Hello there 👋 **GET** **TO** **KNOW** **ME** 
-🔭 I’m a Final Year Student of Child and family life studies
+🔭 I’m a Microsoft certified PowerBi Data Analyst
 
 ![](https://github.com/bellaTHEanalyst/ABOUT-ME/blob/main/About%20me%20.jpg)
 
@@ -12,7 +12,7 @@
 
 🙇 **In** **GOD** **I** **TRUST**. All others must bring data
 
-🌱  I am Excel, powerBI, Sql, and Azure proficient.
+🌱  I am Excel, powerBI, Sql, Dax, and Azure .
 
 📫 How to reach me:  https://www.linkedin.com/in/martins-isabella-/
 
