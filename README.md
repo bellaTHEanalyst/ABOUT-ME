@@ -16,6 +16,6 @@
 
 [Find Portfolio Project here](https://github.com/bellaTHEanalyst/Isabella-Martins-Portfolio)
 
-📫 [How to reach me] (https://www.linkedin.com/in/martins-isabella-/)
+📫 [How to reach me](https://www.linkedin.com/in/martins-isabella-/)
 
 Fun fact: I have finally accepted my **HEIGHT**. I"m a **SHORTIE** 😭 and **I lift** 🏋I'm typical **GYMRAT**
